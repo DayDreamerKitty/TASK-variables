@@ -11,7 +11,7 @@
 
 // Part 1 answer 👇🏻 ...
 const fullName = "Zainab Al-Hussaini"
-const yearOfBirth = "1997"
+const yearOfBirth = 1997
 const hobby = "writing and drawing"
 const funFact = "I'm an introvert"
 const image = "https://p.kindpng.com/picc/s/236-2362818_anime-sempai-animegirl-heart-kawaii-cute-anime-girl.png"
